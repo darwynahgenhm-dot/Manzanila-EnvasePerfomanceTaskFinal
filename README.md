@@ -36,7 +36,7 @@
     <h1>DONUT Eats Website!</h1>
 
     <button onclick="home()">Home</button> 
-    <button>onclick="menu()">Menu</button> <button onclick="contact()">Contact</button>
+    <button onclick="menu()">Menu</button> <button onclick="contact()">Contact</button>
     <button onclick="settings()">Settings</button>
 
     <div id="home" class="page">
