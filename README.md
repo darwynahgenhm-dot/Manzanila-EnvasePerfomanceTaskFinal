@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> 
 <head>
-    <title>Our Product</title>
+    <title>Our Website for Our Product</title>
 
     <style>
         body {
