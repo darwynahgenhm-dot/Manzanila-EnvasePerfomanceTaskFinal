@@ -36,13 +36,15 @@
     <h1>DONUT Eats Website!</h1>
 
     <button onclick="home()">Home</button> 
-    <button onclick="menu()">Menu</button> <button onclick="contact()">Contact</button>
+    <button onclick="menu()">Menu</button> 
+    <button onclick="contact()">Contact</button>
     <button onclick="settings()">Settings</button>
 
     <div id="home" class="page">
-        <h2>Welcome to Our Shop!</h2> <p>Welcome to our product website!</p>
-        <p>We offer affordable and delicious products.</p> <p>Thank you for
-        visiting our website!</p>
+        <h2>Welcome to Our Shop!</h2>
+        <p>Welcome to our product website!</p>
+        <p>We offer affordable and delicious products.</p>
+        <p>Thank you for visiting our website!</p>
     </div>
 
     <div id="menu" class="page">
@@ -56,7 +58,9 @@
         <p>Vanilla</p>
         <p>Mango</p>
 
-        <h3>Prices and Sizes</h3> <p>Small - ₱25</p> <p>Medium - ₱40</p>
+        <h3>Prices and Sizes</h3>
+        <p>Small - ₱25</p>
+        <p>Medium - ₱40</p>
         <p>Large - ₱55</p>
 
         <h3>Available Stocks</h3> 
@@ -99,14 +103,16 @@
 
     <h1>DONUT Eats Website!</h1>
 
-    <button onclick="home()">Home</button> <button
-    onclick="menu()">Menu</button> <button onclick="contact()">Contact</button>
+    <button onclick="home()">Home</button>
+    <button onclick="menu()">Menu</button> 
+    <button onclick="contact()">Contact</button>
     <button onclick="settings()">Settings</button>
 
     <div id="home" class="page">
-        <h2>Welcome to Our Shop!</h2> <p>Welcome to our product website!</p>
-        <p>We offer affordable and delicious products.</p> <p>Thank you for
-        visiting our website!</p>
+        <h2>Welcome to Our Shop!</h2>
+        <p>Welcome to our product website!</p>
+        <p>We offer affordable and delicious products.</p>
+        <p>Thank you for visiting our website!</p>
     </div>
 
     <div id="menu" class="page">
@@ -161,7 +167,9 @@
     </div>
 
     <div id="settings" class="page">
-        <h2>Settings</h2> <p>Change the background color.</p>
+        <h2>Settings</h2>
+        
+        <p>Change the background color.</p>
 
         <button onclick="pink()">Pink</button>
         <button onclick="white()">White</button>
@@ -215,7 +223,7 @@
 
 </body>
 </html>
-images.unsplash.com
+
 
         <p>Large</p> - 10 pieces</p>
     </div>
